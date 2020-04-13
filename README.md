@@ -25,7 +25,12 @@ https://www.cnblogs.com/xz824/p/9997418.html
 https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/96402673   
 https://www.cnblogs.com/rausen/p/4145184.html   
 https://blog.csdn.net/Zh823275484/article/details/88115041    
-https://www.orcode.com/question/641331_k64385.html   
+https://www.orcode.com/question/641331_k64385.html  
+https://blog.csdn.net/weixin_41657760/article/details/96449921    
+https://github.com/alvations/pywsd    
+https://blog.csdn.net/qq_36771895/article/details/90763927     
+https://www.cnblogs.com/webRobot/p/6094311.html    
+https://www.jianshu.com/p/78a101b806c0       
 
 # wiki word2vec
 https://www.jianshu.com/p/6837cc16ab1e   
@@ -43,9 +48,57 @@ https://www.jianshu.com/p/ec27062bd453
 https://blog.csdn.net/hangzuxi8764/article/details/86901822   
 
 
+# TF-IDF
+https://www.jianshu.com/p/f3b92124cd2b     
+https://blog.csdn.net/u012052268/article/details/79560768#3-scikit-learn%E4%B8%AD%E8%AE%A1%E7%AE%97tf-idf    
+https://www.bbsmax.com/A/Vx5MR4PvdN/     
+https://www.jianshu.com/p/edad714110fb     
+https://blog.csdn.net/weixin_33712987/article/details/91892297       
+https://blog.csdn.net/gzmfxy/article/details/78891139       
+
+
 # nltk
 
 
 # 节点重要性
 https://blog.csdn.net/u010270891/article/details/84304574   
 
+
+# 百度ocr
+https://blog.csdn.net/tang_xiaotang/article/details/91516654    
+
+
+# f.read()格式、文件流
+https://ask.csdn.net/questions/763923      
+https://ask.csdn.net/questions/327098     
+https://blog.csdn.net/xiewenbo/article/details/87996421     
+
+# cv2.imencode
+https://www.cnblogs.com/mtcnn/p/9411758.html      
+https://blog.csdn.net/wuyanxue/article/details/102471252    
+
+
+# 求介数
+https://blog.csdn.net/qq_31960623/article/details/102770434    
+https://www.csdn.net/gather_21/MtjacgzsMzk4LWJsb2cO0O0O.html    
+https://blog.csdn.net/qq_34588902/article/details/77150326        
+https://www.jianshu.com/p/3de0ac79944a      
+
+# 语料
+https://blog.csdn.net/m0epNwstYk4/article/details/78840688        
+https://www.corpus4u.org/threads/9032/   （英文）       
+http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html         
+https://www.sohu.com/a/302276301_99952091   
+https://ota.bodleian.ox.ac.uk/repository/xmlui/handle/20.500.12024/2554     
+
+# 计算帧数
+https://blog.csdn.net/qhd1994/article/details/80238707
+
+
+# XML解析
+https://blog.csdn.net/weixin_36279318/article/details/79176475     
+https://www.jianshu.com/p/ad06a0a469e4     
+https://cloud.tencent.com/developer/ask/224089    
+
+# TextRank
+https://github.com/summanlp/textrank   
