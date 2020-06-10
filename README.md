@@ -118,3 +118,19 @@ https://www.jianshu.com/p/ec27062bd453
 
 # 如何计算两个文档的相似度（三）
 http://www.52nlp.cn/tag/%E4%B8%BB%E9%A2%98%E6%A8%A1%E5%9E%8B
+
+# dataset
+scienceie   
+https://www.cnblogs.com/lessmore/p/ke2_dataset_code.html    
+http://alt.qcri.org/semeval2017/task10/    
+https://github.com/UKPLab/semeval2017-scienceie   
+https://github.com/UKPLab   
+
+https://github.com/SDuari/Keyword-Extraction-Datasets   
+https://github.com/LIAAD/KeywordExtractor-Datasets      
+https://github.com/snkim/AutomaticKeyphraseExtraction    
+https://github.com/zelandiya/keyword-extraction-datasets    
+https://www.nlm.nih.gov/databases/download/data_distrib_main.html      
+
+# 下载b站视频
+https://v.urlgot.cn/
