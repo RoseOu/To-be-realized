@@ -89,7 +89,11 @@ https://blog.csdn.net/m0epNwstYk4/article/details/78840688
 https://www.corpus4u.org/threads/9032/   （英文）       
 http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html         
 https://www.sohu.com/a/302276301_99952091   
-https://ota.bodleian.ox.ac.uk/repository/xmlui/handle/20.500.12024/2554     
+https://ota.bodleian.ox.ac.uk/repository/xmlui/handle/20.500.12024/2554  
+https://www.english-corpora.org/coca/      
+http://www.psych.ualberta.ca/~westburylab/index.html     
+https://ota.bodleian.ox.ac.uk/repository/xmlui/handle/20.500.12024/2554      !!!!!!     
+
 
 # 计算帧数
 https://blog.csdn.net/qhd1994/article/details/80238707
@@ -101,4 +105,16 @@ https://www.jianshu.com/p/ad06a0a469e4
 https://cloud.tencent.com/developer/ask/224089    
 
 # TextRank
-https://github.com/summanlp/textrank   
+https://github.com/summanlp/textrank  
+
+# 欧氏距离和余弦相似度
+https://cloud.tencent.com/developer/article/1487432
+
+# 【python + word2vec】计算语义相似度
+https://blog.csdn.net/qq_25264951/article/details/73917635
+
+# 利用Python实现wiki中文语料的word2vec模型构建
+https://www.jianshu.com/p/ec27062bd453
+
+# 如何计算两个文档的相似度（三）
+http://www.52nlp.cn/tag/%E4%B8%BB%E9%A2%98%E6%A8%A1%E5%9E%8B
